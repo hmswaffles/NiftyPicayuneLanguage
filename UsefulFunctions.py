@@ -9,7 +9,7 @@ def AutomaticYossarian(text):
     day when he blacked out everything in the letters but a, an and the. That erected more dynamic intralinear
     tensions, he felt, and in just about every case left a message far more universal. Soon he was proscribing
     parts of salutations and signatures and leaving the text untouched. One time he blacked out all but
-    salutation"Dear Mary" from a letter, and at the bottom he wrote, "I yearn for you tragically, A.T. Tappman,
+    salutation "Dear Mary" from a letter, and at the bottom he wrote, "I yearn for you tragically, A.T. Tappman,
     Chaplain, U.S. Army." A.T. Tappman was the group chaplain's name.
     """
     words = text.split(" ")
