@@ -11,14 +11,15 @@ Use it to erect more dynamic intralinear tensions and in just about every case l
 ### In Progress:
 
 #### *Computational Melville*
-Calls you "Ishmael" via text message.
+Given your name and phone number, this function calls you "Ishmael" via text message.
 
 -------------
 
 
 ### Forthcoming:
-#### *Dickensian Equivocation*
+#### *Dickensian Superlative Equivocation*
 Multi-polar sentiment analysis, useful for figuring out if the current time, age, epoch, and season are any good at all.
 
 #### *CD Ram Dass*
-A combination timer and location-finding function that always returns "now" and "here."  
+A combination timer and location-finding function that always returns "now" and "here." 
+
